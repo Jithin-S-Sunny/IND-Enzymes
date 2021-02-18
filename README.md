@@ -1,4 +1,4 @@
-# Industrial-Genozymes
+# IND-Enzymes
 
-Link to the database: https://indenzymes.srmist.edu.in/
+Link to the database: https://indenzymes.srmist.edu.in/Home
 
