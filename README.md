@@ -1,6 +1,7 @@
 # IND-Enzymes
 
 Link to the database: https://indenzymes.srmist.edu.in/Home
+Link to Article: https://link.springer.com/article/10.1007/s00792-021-01231-2
 
 # PubMed Data Extraction and Network Generation for Thermophilic and Psychrophilic Organisms
 This Python script automates the process of extracting PubMed IDs related to specific species, parsing the resulting JSON files to identify whether the organisms have thermophilic or psychrophilic characteristics, and generating a network visualization of the data.
